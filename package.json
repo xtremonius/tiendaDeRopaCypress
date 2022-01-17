@@ -15,11 +15,11 @@
   ],
   "author": "Draculinio",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^6.6.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Draculinio/tiendaDeRopaCypress"
+  },
+  "devDependencies": {
+    "cypress": "^9.2.1"
   }
 }
