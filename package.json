@@ -20,6 +20,8 @@
     "url": "https://github.com/Draculinio/tiendaDeRopaCypress"
   },
   "devDependencies": {
-    "cypress": "^9.2.1"
-  }
+    "cypress": "^9.2.1",
+    "cypress-mochawesome-reporter": "^2.3.0"
+  },
+  "reporter": "cypress-mochawesome-reporter"
 }
